@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Default URL
-model_url="https://gpt4all.io/models/ggml-gpt4all-l13b-snoozy.bin"
+model_url="https://gpt4all.io/models/ggml-stable-vicuna-13B.q4_2.bin"
 
 # Default uninstall option
 uninstall=false
